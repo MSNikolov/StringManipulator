@@ -1,0 +1,2 @@
+# StringManipulator
+Another practice for the Fundamentals Exam. Problem description here: https://judge.softuni.bg/Contests/1747/ In the StringManipulator task I had to delete every occurance of a given string in the result string - initialy I did not know how, but I improvized with the string.Split method. Other than that - EmojiSimulator got solved with Regex; and FeedTheAnimals - two dictionaries, nothing too complicated.
